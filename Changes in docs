@@ -37,7 +37,7 @@ make serve LANG=en
 
 And then open: http://127.0.0.1:5000 in your browser.
 
-Once you are happy with the result, 
+Once you are confident,satisfied and happy with the result, 
 
 ```bash
 ./draft/unpublish.sh myboard
